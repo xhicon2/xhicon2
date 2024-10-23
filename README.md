@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para colocar em prática os conhecimentos que venho adquirindo na faculdade e no curso que faço por fora. Meu principal interesse é em Desenvolvimento de Backend com linguagem Java.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade para colocar em prática os conhecimentos que venho adquirindo na faculdade e no curso que faço por fora. Meu principal interesse é em Desenvolvimento de Backend.</p>
 
 ###
 
